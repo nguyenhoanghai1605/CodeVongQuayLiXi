@@ -47,3 +47,8 @@ Một đối tượng(một ô trong vong quay) sẽ được định nghĩa b�
 Ngoài ra thì anh em nghịch trong `index.html` nhá mình chú thích hết rồi, có thể chế ra nhiều kiểu khác :D
 
 Nếu không làm được cứ inbox mình nhé, chúc anh em đầu năm vui vẻ không quạu!
+
+
+## Author
+Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
+
